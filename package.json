@@ -1,0 +1,12 @@
+{
+  "name": "api-financial",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Nick",
+  "description": "Trabalho de Sistemas Distribuidos. REST:API básica.",
+  "repository": "https://github.com/Niquell/Trabalho_REST.git",
+  "dependencies": {
+  	"express": "4.13.4",
+  	"mongoose": "4.11.6"	
+  }
+}
